@@ -139,6 +139,14 @@
         "poopy"
       ],
       "id": "13"
+    },
+    {
+      "name": "Juan",
+      "species": "donkey",
+      "diet": "herbavore",
+      "personalityTraits": [
+        "poopy"
+      ]
     }
   ]
 }
